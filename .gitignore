@@ -168,3 +168,14 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local 
+# extra
+*.keys
+*.db
+*.sqlite
+*.sqlite3
+.env.*
+!.env.example
+bin/
+obj/
+.vs/
+*.class
